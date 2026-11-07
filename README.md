@@ -3,7 +3,7 @@
 
 *College or field:* YOUR COLLEGE OR FIELD
 
-*City:* Navi Mumbai
+*City:* Navi Mumbai.
 
 ## About me
 
